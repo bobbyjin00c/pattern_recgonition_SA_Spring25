@@ -1,0 +1,5 @@
+Epoch 1: Loss=204.0957, Test Acc=19.61%
+Epoch 2: Loss=66.1483, Test Acc=10.11%
+Epoch 3: Loss=1.5726, Test Acc=10.02%
+Epoch 4: Loss=0.7276, Test Acc=10.00%
+Training Finished. Best Accuracy: 19.61%

@@ -1,0 +1,25 @@
+Epoch 1: Loss=422.7986, Test Acc=32.63%
+Epoch 2: Loss=134.7329, Test Acc=32.05%
+Epoch 3: Loss=111.0130, Test Acc=32.82%
+Epoch 4: Loss=90.2323, Test Acc=33.11%
+Epoch 5: Loss=74.6405, Test Acc=30.13%
+Epoch 6: Loss=74.9758, Test Acc=34.38%
+Epoch 7: Loss=63.3209, Test Acc=31.77%
+Epoch 8: Loss=55.7168, Test Acc=34.34%
+Epoch 9: Loss=53.7223, Test Acc=35.24%
+Epoch 10: Loss=50.2955, Test Acc=32.16%
+Epoch 11: Loss=53.9891, Test Acc=34.34%
+Epoch 12: Loss=50.2769, Test Acc=33.56%
+Epoch 13: Loss=52.7043, Test Acc=35.47%
+Epoch 14: Loss=44.3164, Test Acc=35.48%
+Epoch 15: Loss=48.3150, Test Acc=37.69%
+Epoch 16: Loss=51.4640, Test Acc=36.34%
+Epoch 17: Loss=56.6452, Test Acc=36.50%
+Epoch 18: Loss=44.6509, Test Acc=40.59%
+Epoch 19: Loss=40.3463, Test Acc=37.13%
+Epoch 20: Loss=40.0738, Test Acc=37.05%
+Epoch 21: Loss=37.8578, Test Acc=37.47%
+Epoch 22: Loss=36.0495, Test Acc=37.50%
+Epoch 23: Loss=35.7827, Test Acc=37.42%
+[Early Stop] No improvement for 5 epochs
+Training Finished. Best Accuracy: 40.59%

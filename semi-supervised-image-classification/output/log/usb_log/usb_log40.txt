@@ -1,0 +1,5 @@
+Epoch 1: Loss=229.0501, Test Acc=19.97%
+Epoch 2: Loss=81.2860, Test Acc=10.89%
+Epoch 3: Loss=7.9983, Test Acc=10.02%
+Epoch 4: Loss=0.7989, Test Acc=10.02%
+Epoch 5: Loss=0.7806, Test Acc=10.02%

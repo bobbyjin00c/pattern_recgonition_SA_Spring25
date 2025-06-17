@@ -1,0 +1,37 @@
+【标注样本数：40】
+Epoch 1: Total Loss=674.4700, Acc=10.43%
+Epoch 2: Total Loss=13.6730, Acc=10.00% 
+Epoch 3: Total Loss=77.1189, Acc=10.00% 
+Epoch 4: Total Loss=56.0587, Acc=18.44%
+Epoch 5: Total Loss=51.8866, Acc=10.00%
+Epoch 6: Total Loss=4.3424, Acc=10.00%
+Epoch 7: Total Loss=64.8043, Acc=10.00%
+Epoch 8: Total Loss=28.0661, Acc=10.00%
+Epoch 9: Total Loss=4.7681, Acc=10.00%
+[Early Stop] No improvement after 5 epochs
+Training Finished. Best Test Accuracy: 18.44%
+
+【标注样本数：250】
+Epoch 1: Total Loss=1673.7036, Acc=10.20%
+Epoch 2: Total Loss=6.7400, Acc=10.00%
+Epoch 3: Total Loss=112.1607, Acc=10.00%
+Epoch 4: Total Loss=92.2291, Acc=10.00%
+Epoch 5: Total Loss=306.6686, Acc=22.73%
+Epoch 6: Total Loss=15.7514, Acc=10.00%
+Epoch 7: Total Loss=150.3947, Acc=10.00%
+Epoch 8: Total Loss=9.5711, Acc=10.00%
+Epoch 9: Total Loss=215.5906, Acc=10.14%
+Epoch 10: Total Loss=10.2519, Acc=10.00%
+[Early Stop] No improvement after 5 epochs
+Training Finished. Best Test Accuracy: 22.73%
+
+【标注样本数：4000】
+Epoch 1: Total Loss=4635.6827, Acc=50.11%
+Epoch 2: Total Loss=2208.9630, Acc=55.27%
+Epoch 3: Total Loss=977.4023, Acc=33.64%
+Epoch 4: Total Loss=445.9367, Acc=14.70%
+Epoch 5: Total Loss=381.4563, Acc=11.66%
+Epoch 6: Total Loss=328.9665, Acc=11.54%
+Epoch 7: Total Loss=283.7561, Acc=11.80%
+[Early Stop] No improvement after 5 epochs
+Training Finished. Best Test Accuracy: 55.27%
